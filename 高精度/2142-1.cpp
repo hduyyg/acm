@@ -12,6 +12,7 @@ void read(int a[]) {
 	for(int i = len - 1; i >= 0; i--) {
 		a[++a[0]] = s[i] - '0';
 	}
+	while(a[0] > 1 && a[a[0]] == 0) a[0]--;
 }
 
 int compare(int a[], int b[]) {
