@@ -17,6 +17,7 @@ void read(int a[]) {
 			tmp = tmp * 10 + s[j] - '0';
 		a[++a[0]] = tmp;
 	}
+	while(a[0] > 1 && a[a[0]] == 0) a[0]--;
 }
 
 void add(int a[], int b[]) {

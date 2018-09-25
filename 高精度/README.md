@@ -18,9 +18,16 @@
 
 # 重点突出
 
-1. 压位：尤其需要注意，高精度乘法时，避免爆int
-2. 去掉高位无效0：减法
-3. 方向存储：数字字符串是“123”，但是我们存储是：321
+1. 压位
+
+   高精度乘法竖式计算中，如果不处理进位，那么单个数位的最大值就是81*n，要谨防爆int。
+
+2. 去除高位无效0
+
+3. 逆向存储
+
+   数字字符串是“123”，但是我们存储是：321，这是便于竖式计算中，高位数字可以继续向右扩展。
+
 4. 高精度各种运算可以理解成多项式的相应处理
 
 # 高精度加法
@@ -43,9 +50,13 @@
 
 练习题目：
 
-* 数据规模：5k  http://blog.miskcoo.com/2014/10/karatsuba-multiplication
+* 数据规模：1k  http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1027
 * 数据规模：10w  http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1028
 * 数据规模：10w http://codevs.cn/problem/3123/
+
+基础解法：1027-1.cpp
+
+进阶解法-压位：1027-2.cpp
 
 # 高精度除法
 
