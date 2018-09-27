@@ -31,14 +31,6 @@
 
    解法：2516-1.cpp
 
-   思路：
-
-   * 找规律
-
-     对吾等凡人，还是找规律更快一点
-
-   * 证明：http://baka9.coding.me/archivers/fibonacci_nim
-
 # 扩展练习
 
 1. [51nod1070 Bash游戏 V4](http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1070)
