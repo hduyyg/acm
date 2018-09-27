@@ -30,40 +30,39 @@
 
 4. 高精度各种运算可以理解成多项式的相应处理
 
-# 高精度加法
+# 练习题
 
-练习题：https://www.luogu.org/problemnew/show/P1601
+1. 高精度加法
 
-基础解法：1601-1.cpp
+   练习题：https://www.luogu.org/problemnew/show/P1601
 
-进阶解法-压位：1601-2.cpp
+   基础解法：1601-1.cpp
 
-# 高精度减法
+   进阶解法-压位：1601-2.cpp
 
-练习题：https://www.luogu.org/problemnew/show/P2142
+2. 高精度减法
 
-基础解法：2142-1.cpp
+   练习题：https://www.luogu.org/problemnew/show/P2142
 
-进阶解法-压位：2142-2.cpp
+   基础解法：2142-1.cpp
 
-# 高精度乘法
+   进阶解法-压位：2142-2.cpp
 
-练习题目：
+3. 高精度乘法
 
-* 数据规模：1k  http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1027
-* 数据规模：10w  http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1028
-* 数据规模：10w http://codevs.cn/problem/3123/
+   练习题目：
 
-基础解法：1027-1.cpp
+   * 数据规模：1k  http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1027
+   * 数据规模：10w  http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1028
+   * 数据规模：10w http://codevs.cn/problem/3123/
 
-进阶解法-压位：1027-2.cpp
+   基础解法：1027-1.cpp
 
-# 高精度除法
+   进阶解法-压位：1027-2.cpp
 
-练习题目：
+4. 高精度除法
 
-* 数据规模：5k https://www.luogu.org/problemnew/show/P1480
-* http://codevs.cn/problem/3118/
+   练习题目：https://www.luogu.org/problemnew/show/P1480
 
 # 扩展练习
 
