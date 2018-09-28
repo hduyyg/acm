@@ -18,13 +18,24 @@
 
 # 练习题
 
+题目全部存放在problem文件夹下
+
 ## 1.背包dp
 
 1. 01背包：[51nod1085 背包问题](http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1085)
 
-   解法：背包dp/1082-1.cpp
+   解法：1082-1.cpp
 
-2. 
+2. 多重背包：[51nod 1086 背包问题 V2](http://www.51nod.com/onlineJudge/questionCode.html#!problemId=1086)
+
+   基础解法-O(w*Σc[i])：
+
+   进阶解法-二进制优化 O(w*Σlog c[i]) ：
+
+   进阶解法-单调队列优化 O(w*n)：
+
+3. 有依赖的背包：[vijos1313 金明的预算方案](https://vijos.org/p/1313)
 
 # 扩展练习
 
+1. 有依赖的背包：[vijos1180 选课](https://vijos.org/p/1180)
