@@ -20,11 +20,15 @@
 
    解法：1049-1.cpp
 
-4. 环形dp：[NOIP2006 能量项链](https://vijos.org/p/1312)
+4. 区间最值：[poj 3264 Balanced Lineup](http://poj.org/problem?id=3264)
 
-5. 区间dp：[Sdoi2008 石子合并](https://www.lydsy.com/JudgeOnline/problem.php?id=3229)
+   解法-st算法：3264-1.cpp
 
-6. 树形dp：[NOIP2003 加分二叉树](https://vijos.org/p/1100)
+5. 环形dp：[NOIP2006 能量项链](https://vijos.org/p/1312)
+
+6. 区间dp：[Sdoi2008 石子合并](https://www.lydsy.com/JudgeOnline/problem.php?id=3229)
+
+7. 树形dp：[NOIP2003 加分二叉树](https://vijos.org/p/1100)
 
 ## 1.背包dp
 
